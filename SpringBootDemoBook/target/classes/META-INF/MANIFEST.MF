@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ASUS
+Build-Jdk: 17.0.1
+Implementation-Title: SpringBootDemo
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootDemo
+Created-By: Maven Integration for Eclipse
+
